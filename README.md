@@ -1,5 +1,6 @@
-| Centro Universitário de Ensino Superior do Amazonas — CIESA |
-| Autor:Raphael Max |
+ Centro Universitário de Ensino Superior do Amazonas — CIESA 
+---
+ Autor:Raphael Max 
 
 # ManausRW — Sistema de Monitoramento e Gestão de Ocorrências de Energia Elétrica
 
