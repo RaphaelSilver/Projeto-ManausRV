@@ -519,19 +519,3 @@ As decisões propostas **não garantem automaticamente** as metas: o cumprimento
 
 A arquitetura do ManausRW deriva dos requisitos declarados na Parte 1. Os diagramas C4 representam o sistema em três níveis de abstração, os ADRs registram escolhas com alternativas e consequências, e os exemplos HTTP ilustram a comunicação cliente-servidor. As tabelas de rastreabilidade vinculam os RNFs a decisões e todas as requisições HTTP a requisitos funcionais. Assim, a proposta apoia a organização dos atendimentos, a comunicação com a população e a priorização de serviços essenciais em situações de interrupção de energia em Manaus.
 
----
-
-## Conferência dos entregáveis
-
-- [x] Descrição do sistema e tipos de usuários.
-- [x] 12 requisitos funcionais com código e prioridade.
-- [x] 8 requisitos não funcionais mensuráveis, em pelo menos quatro categorias.
-- [x] 7 regras de negócio independentes do software.
-- [x] Diagramas C4 de contexto, contêineres e componentes, em Mermaid, com título e legenda.
-- [x] 3 ADRs com alternativas, consequências e vínculos a requisitos.
-- [x] Diagrama de sequência de requisição e resposta.
-- [x] Exemplos GET, POST, PUT e DELETE, incluindo resposta 4xx.
-- [x] Explicação de HTTPS/TLS.
-- [x] Rastreabilidade RNF → arquitetura e HTTP → RF.
-
-**Entrega:** publicar este arquivo como `README.md` em um repositório público no GitHub. Para trabalho individual, registrar ao menos um commit com a própria autoria.
