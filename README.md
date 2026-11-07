@@ -2,7 +2,7 @@
 
 **Disciplina:** Projetos de Sistemas — CIESA  
 **Modalidade:** Trabalho individual  
-**Natureza:** Projeto conceitual, sem implementação
+**Natureza:** Projeto conceitual, sem implementação   
 **Autor:** Raphael Max 
 
 ## Parte 1 — Levantamento e classificação de requisitos
